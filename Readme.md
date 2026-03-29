@@ -1,9 +1,5 @@
-<p align="center">
-  <img src="/resources/sliit.png" alt="Alt text" width="120"/>
-</p>
 
-<h1 align="center">IT2011 - Artificial Intelligence and Machine Learning</h1>
-<h2 align="center">Lab 02 - Introduction to Generative AI</h2>
+<h2 align="center">Lab 01 - Introduction to Generative AI</h2>
 
 
 ## Objectives:  
