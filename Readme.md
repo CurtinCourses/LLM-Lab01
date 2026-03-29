@@ -15,33 +15,6 @@
 
 
 ## Exercise 1:
-Use the provided AWS Academy Generative AI Foundations course provided https://awsacademy.instructure.com/courses/129069 and complete the two activities in Module 04 - Using prompts and prompt engineering 
-
-
-<img src="/resources/lab.png" alt="Alt text" style="width: 50%;"/>
-
-
-1. Provide Screen shots of you doing the two labs as evidence.
-2. Submit your answers under Exercise 1
-
-## Exercise 2:
-Look at the LLM Leaderboard - https://artificialanalysis.ai/leaderboards/models
-
-1. Where does your favourite LLM rank currently?
-2. Try out at least two models that you haven't tried before (you will have to do a seperate google search to find these products)
-3. Run two prompts of your choice
-4. Submit the model, the prompt and the responses you have got.
-
-## Exercise 3:
-Use the following large language models, enabling the reasoning model of the platform and generate a detail report on "How you can use generative AI as a university student to learn subjects like probability and statistics, data base management systems and software engineering"
-
-1. https://chat.deepseek.com - Deepthing R1
-2. https://chat.qwen.ai - Thinking
-3. https://x.com/i/grok - DeepSearch
-
-In your submission, mention the LLMs used, the report, and a reflection of anything useful you have found, in your opinion which tool produced the best results
-
-## Exercise 4:
 
 1. In this lab we will use OpenAI API to develop an application in python
 2. Create an account at https://www.deeplearning.ai
@@ -80,7 +53,7 @@ Please see the figure below if you have issues running this</br>
 9. Tryout a unique System prompt and User Prompt for a problem of your choice.
 10. Share screen shots and upload the prompts and responses for the above activities 
 
-## Exercise 5.
+## Exercise 2.
 1. Create an account in https://huggingface.co
 2. Select any AI project of your liking under Spaces
 3. Tryout the AI project and generate the output
@@ -137,22 +110,6 @@ Some models have on the Right Side called Use this Model, where you can get Goog
 15. Attach screen shots of your solution running for 9, 11, and 13
 16. Submit the code and the output for 13
 
-## Exercise 6.
-1. Create an Account in Coursera - https://www.coursera.org/
-2. Register to these three courses</br></br>
-https://www.coursera.org/learn/learning-chatgpt</br>
-https://www.coursera.org/learn/prompt-engineering</br>
-https://www.coursera.org/learn/learning-how-to-learn</br></br>
-3. Select a topic from the Prompt Engineering Course given above, and develop your own prompt based on the style given
-4. Try it out in your favourite LLM
-5. Share the prompt, output and a screenshot of what you have done
-6. Go through these courses when you have some free time
    
-## Exercise 7.
-
-1. Submit all lab work you have done, including screenshots based on instructions given to you.
-
-   
-<p align="center"><b>(c) Faculty of Computing, SLIIT</b></p>
 
 
