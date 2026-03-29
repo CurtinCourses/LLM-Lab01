@@ -97,15 +97,6 @@ datasets, and community-driven contributions."""
 summary = summarizer(text, max_length=20, min_length=5, do_sample=False)
 print(summary)
 ```
-12. Select a Natural Language Model of your choice from Hugging Face
-
-<img src="/resources/lab05.png" alt="Alt text" style="width: 30%;"/>
-
-13. Try your best to see if you can get your selected Model running in Google CoLab.  In some instances you will have to install additional python libraries.
-Some models have on the Right Side called Use this Model, where you can get Google CoLab code that you can try to use.
-<img src="/resources/lab06.png" alt="Alt text" style="width: 25%;"/>
-15. Attach screen shots of your solution running for 9, 11, and 13
-16. Submit the code and the output for 13
 
 ---
 
